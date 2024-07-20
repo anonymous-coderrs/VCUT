@@ -31,7 +31,7 @@
     <td><img src="contents/stree_vcut.gif" width="320px" height="180px"></td>
   </tr>
   <tr>
-    <td><img src="contents/car_green_toy.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/a_green_toy_car.jpg" width="320px" height="180px"></td>
     <td><img src="contents/car_svd_orig_14_frame.gif" width="320px" height="180px"></td>
     <td><img src="contents/car_vcut.gif" width="320px" height="180px"></td>
   </tr>
@@ -41,12 +41,12 @@
     <td><img src="contents/meat_vcut.gif" width="320px" height="180px"></td>
   </tr>
   <tr>
-    <td><img src="contents/flock_birds.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/a_flock_birds.jpg" width="320px" height="180px"></td>
     <td><img src="contents/flock_bird_SVD_orig_14_frame.gif" width="320px" height="180px"></td>
     <td><img src="contents/flock_bird_vcut.gif" width="320px" height="180px"></td>
   </tr>
   <tr>
-    <td><img src="contents/a_blurry_neon.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/a_blurry_neon_l.jpg" width="320px" height="180px"></td>
     <td><img src="contents/neon_svd_orig_14_frame.gif" width="320px" height="180px"></td>
     <td><img src="contents/neon_vcut.gif" width="320px" height="180px"></td>
   </tr>
