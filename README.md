@@ -25,6 +25,33 @@
     <td><img src="contents/a_great_white_shark_swimming_in_the_ocean_2_orig_14_frame.gif" width="320px" height="180px"></td>
     <td><img src="contents/a_great_white_shark_swimming_in_the_ocean_2_vcut17_14frame.gif" width="320px" height="180px"></td>
   </tr>
+  <tr>
+    <td><img src="contents/busy_street_motorcycles.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/stree_svd_orig_14_frame.gif" width="320px" height="180px"></td>
+    <td><img src="contents/stree_vcut.gif" width="320px" height="180px"></td>
+  </tr>
+  <tr>
+    <td><img src="contents/car_green_toy.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/car_svd_orig_14_frame.gif" width="320px" height="180px"></td>
+    <td><img src="contents/car_vcut.gif" width="320px" height="180px"></td>
+  </tr>
+  <tr>
+    <td><img src="contents/meat_tongs.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/meat_SVD_orig_14_frame.gif" width="320px" height="180px"></td>
+    <td><img src="contents/meat_vcut.gif" width="320px" height="180px"></td>
+  </tr>
+  <tr>
+    <td><img src="contents/flock_birds.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/flock_bird_SVD_orig_14_frame.gif" width="320px" height="180px"></td>
+    <td><img src="contents/flock_bird_vcut.gif" width="320px" height="180px"></td>
+  </tr>
+  <tr>
+    <td><img src="contents/a_blurry_neon.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/neon_svd_orig_14_frame.gif" width="320px" height="180px"></td>
+    <td><img src="contents/neon_vcut.gif" width="320px" height="180px"></td>
+  </tr>
 </table>
 
-## Description
+## NOTE
+
+Please note that the videos have been compressed to facilitate easier page loading.
