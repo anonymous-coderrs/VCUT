@@ -36,7 +36,7 @@
     <td><img src="contents/car_vcut.gif" width="320px" height="180px"></td>
   </tr>
   <tr>
-    <td><img src="contents/meat_tongs.jpg" width="320px" height="180px"></td>
+    <td><img src="contents/The_meat.jpg" width="320px" height="180px"></td>
     <td><img src="contents/meat_SVD_orig_14_frame.gif" width="320px" height="180px"></td>
     <td><img src="contents/meat_vcut.gif" width="320px" height="180px"></td>
   </tr>
